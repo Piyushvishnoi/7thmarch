@@ -15,6 +15,10 @@ void mybranch3()
 {
 cout<<"my name is piyush";
 }
+void myfunction()
+{
+cout<<"on new branch";
+}
 };
 int main()
 {
