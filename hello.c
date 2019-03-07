@@ -5,6 +5,7 @@ class my
 public:
 void mybranch1();
 void mybranch2();
+void mybranch3();
 };
 int main()
 {
