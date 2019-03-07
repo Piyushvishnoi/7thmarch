@@ -11,6 +11,10 @@ void mybranch2()
 {
 cout<<"my second function";
 }
+void mybranch3()
+{
+cout<<"my name is piyush";
+}
 };
 int main()
 {
