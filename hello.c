@@ -19,6 +19,11 @@ void myfunction()
 {
 cout<<"on new branch";
 }
+void mybranch4()
+{
+cout<<"fourth function";
+}
+
 };
 int main()
 {
